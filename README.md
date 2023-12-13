@@ -1,2 +1,2 @@
 # Django-CRUD-Auth
-Proyecto de Django, creando una app de tareas con autentificación y despliegue en Render
+Projet Django, création d'une application de tâches avec authentification et déploiement sur Render.
